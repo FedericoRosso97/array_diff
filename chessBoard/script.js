@@ -1,4 +1,4 @@
-//prima soluzione
+//prima soluzione a doppio ciclo for
 
 function chessBoard(rows, columns) {
     // your code goes here
